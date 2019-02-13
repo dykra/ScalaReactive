@@ -1,2 +1,5 @@
-# scala-reactive-homework-lab2
+# ScalaReactive
 
+
+University project 
+Implementation of fragment of auction system with use od Akka Actors.
